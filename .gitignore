@@ -51,6 +51,9 @@ Binaries/*
 # Builds
 Build/*
 
+# Built data for maps
+*_BuiltData.uasset
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
